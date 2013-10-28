@@ -1,13 +1,46 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+	cout<<"___________________________________________________________________"<< endl;
+	cout<< endl<< endl<< endl<< endl<< endl;
+	cout<<"_____________________________"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                     OO    |"<< endl;
+	cout<<"|                    OOOO   |"<< endl;
+	cout<<"|                     OO    |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|                           |"<< endl;
+	cout<<"|___________________________|"<< endl;
+	cout<< endl<< endl<< endl<< endl<< endl;
+	cout<<"___________________________________________________________________"<< endl;
+	cout<< endl<< endl<< endl<< endl<< endl;
+	cout<<"		.---."<< endl;
+    cout<<"               (_,/\\ \\ "<< endl;
+    cout<<"              (\\\`a a(  )"<< endl;
+    cout<<"              ) \\=  ) (:"<< endl;
+    cout<<"             (.--\' \'--.)"<< endl;
+    cout<<"             / (_)^(_) \\ "<< endl;
+    cout<<"            | / \\   / \\ |"<< endl;
+    cout<<"             \\ / . \\ //"<< endl;
+    cout<<"              \\/\\___/\\/"<< endl;
+    cout<<"              |  \\_/  |"<< endl;
+    cout<<"               \\  /  /"<< endl;
+    cout<<"                \\/  /"<< endl;
+    cout<<"                 ( ("<< endl;
+    cout<<"                 |\\ \\ "<< endl;
+    cout<<"                 | \\ \\ "<< endl;
+    cout<<"                /_Y/_Y "<< endl;
+	cout<< endl<< endl<< endl<< endl<< endl;
+	cout<<"___________________________________________________________________"<< endl;
